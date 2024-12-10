@@ -86,6 +86,4 @@ This project successfully utilized machine learning models—Logistic Regression
 
 ## References
 
-Tableau Visualizations: [Tableau]()
-
 Slides Presentation Link: [Presentation.pdf](https://docs.google.com/presentation/d/1s5lnwSJkWpb4cHHrOUHFC6TZIw2_saXklP4ubmOoMFo/edit#slide=id.g31cb485869b_0_1)
